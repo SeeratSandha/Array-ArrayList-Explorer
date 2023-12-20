@@ -1,6 +1,6 @@
 
 /**
- * Assignment name : CS160HW4 Assignment
+ * Assignment name : Array & ArrayList Explorer
  * Author : Seerat Sandha 
  * Date : 04/09/2023
  */
